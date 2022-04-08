@@ -1,0 +1,16 @@
+.page__iframe {
+  width: 515px;
+  height: 316px;
+  margin-left: auto;
+  border: none;
+}
+
+.page__iframe:nth-child(2) {
+  margin-right: auto;
+  margin-left: 0;
+}
+
+.page__iframe:nth-child(4) {
+  margin-right: auto;
+  margin-left: 0;
+}

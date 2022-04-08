@@ -1,0 +1,9 @@
+.page__audio_song {
+  margin: 0 50px 100px 0;
+  width: 500px;
+  height: 180px;
+}
+
+.page__audio_song:last-child {
+  margin-right: 0;
+}

@@ -1,0 +1,46 @@
+.page__social-icons {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin-bottom: 100px;
+  padding: 0;
+}
+.page__social-icons > li {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.page__social-icons a {
+  position: relative;
+  display: block;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  transition: background-color 0.3s ease-in-out;
+  width: 70px;
+  height: 70px;
+}
+.page__social-icons a:hover {
+  background-color: #e0e0e0;
+}
+.page__social-icons a::before {
+  content: "";
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  background: transparent no-repeat center center;
+  background-size: cover;
+  border-radius: 20%;
+}
+.page__social-icons .page__social-icon_applemusic::before {
+  background-image: url("https://i.pinimg.com/originals/2d/a3/29/2da3293ab201e581488668ab8b7dabd5.png");
+}
+.page__social-icons .page__social-icon_spotyfy::before {
+  background-image: url("https://e7.pngegg.com/pngimages/4/438/png-clipart-spotify-logo-spotify-mobile-app-computer-icons-app-store-music-free-icon-spotify-miscellaneous-logo.png");
+}
+.page__social-icons .page__social-icon_soundcloud::before {
+  background-image: url("https://vectorified.com/images/soundcloud-icon-transparent-10.jpg");
+}
+.page__social-icons .page__social-icon_youtube::before {
+  background-image: url("https://yt3.ggpht.com/ytc/AKedOLRFdev7405zNqBX4TYIsOF4coXVlbus4ngno5qW=s900-c-k-c0x00ffffff-no-rj");
+}
