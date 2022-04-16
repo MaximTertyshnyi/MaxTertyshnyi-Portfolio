@@ -1,7 +1,18 @@
 .page__subtitle {
-  margin: 0;
+  display: block;
+  position: relative;
+  max-width: 1050px;
+  margin: 0 auto 20px auto;
   font-weight: 300;
   font-size: 20px;
   letter-spacing: 1px;
   text-align: center;
+  color: RGB(110, 127, 130);
+  text-shadow: 1px 1px 20px rgba(255, 255, 255, 0.466);
+}
+
+@media (max-width: 640px) {
+  .page__subtitle {
+    font-size: 13px;
+  }
 }

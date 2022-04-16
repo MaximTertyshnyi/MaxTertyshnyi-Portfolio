@@ -7,3 +7,12 @@
   grid-column-gap: 50px;
   grid-row-gap: 50px;
 }
+
+@media (max-width: 640px) {
+  .page__iframes {
+    grid-template-columns: repeat(1, 1fr);
+    margin: 30px auto -20px auto;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+  }
+}

@@ -7,3 +7,12 @@
 .page__audio_song:last-child {
   margin-right: 0;
 }
+
+@media (max-width: 640px) {
+  .page__audio_song {
+    width: 350px;
+    height: 200px;
+    margin: 0;
+    margin-bottom: 20px;
+  }
+}

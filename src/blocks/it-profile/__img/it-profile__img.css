@@ -1,0 +1,28 @@
+.it-profile__img {
+  width: 515px;
+  height: 330px;
+  margin-right: 50px;
+  transition: 0.5s;
+  display: block;
+  object-fit: cover;
+}
+
+.it-profile__img:hover {
+  transform: scale(1.05);
+}
+
+.it-profile__img:last-child {
+  margin-right: 0;
+}
+
+.it-profile__img:hover {
+  opacity: 0.8;
+}
+
+@media (max-width: 640px) {
+  .it-profile__img {
+    width: 350px;
+    height: 230px;
+    margin: 0;
+  }
+}

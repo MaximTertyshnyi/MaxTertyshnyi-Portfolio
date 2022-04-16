@@ -10,3 +10,17 @@
   transition: all 0.5s;
   text-align: center;
 }
+
+.navigation__link:hover {
+  opacity: 0.6;
+  z-index: 1;
+}
+
+@media (max-width: 640px) {
+  .navigation__link {
+    font-size: 13px;
+    font-weight: 450;
+    text-align: center;
+    padding: 5px;
+  }
+}

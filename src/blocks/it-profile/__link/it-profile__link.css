@@ -1,0 +1,17 @@
+.it-profile__link {
+  width: 515px;
+  height: 316px;
+  margin-right: 50px;
+}
+
+.it-profile__link:last-child {
+  margin-right: 0;
+}
+
+@media (max-width: 640px) {
+  .it-profile__link {
+    width: 350px;
+    height: 230px;
+    margin: 0;
+  }
+}

@@ -7,3 +7,10 @@
   text-align: center;
   z-index: 1;
 }
+
+@media (max-width: 640px) {
+  .home-title {
+    padding-top: 13rem;
+    font-size: 41px;
+  }
+}

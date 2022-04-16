@@ -3,4 +3,11 @@
   font-size: 60px;
   letter-spacing: 5px;
   text-align: center;
+  text-shadow: 1px 1px 30px RGB(110, 127, 130);
+}
+
+@media (max-width: 640px) {
+  .page__title {
+    font-size: 30px;
+  }
 }

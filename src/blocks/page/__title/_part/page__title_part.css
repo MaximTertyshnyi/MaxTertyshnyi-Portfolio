@@ -1,0 +1,12 @@
+.page__title_part {
+  display: block;
+  position: relative;
+  max-width: 1050px;
+  margin: 0 auto 20px auto;
+  font-weight: 200;
+  font-size: 30px;
+  letter-spacing: 1px;
+  text-align: center;
+  color: white;
+  text-shadow: 1px 1px 10px RGB(110, 127, 130);
+}

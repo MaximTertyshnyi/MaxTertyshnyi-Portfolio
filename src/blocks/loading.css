@@ -1,0 +1,15 @@
+.loading {
+  color: transparent;
+  background: linear-gradient(100deg, #c3c6c9 30%, #b3b4b6 50%, #e5e6e7 70%);
+  background-size: cover;
+  animation: loading 1s ease-in infinite;
+}
+
+@keyframes loading {
+  0% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
+}
