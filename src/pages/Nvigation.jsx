@@ -8,8 +8,8 @@ function Nvigation () {
         <div className='navigation'>
             <CustomLink className='navigation__link' to="/">Home</CustomLink>
             <CustomLink className='navigation__link' to="/music">Music</CustomLink>
-            <a className='navigation__link' href=''>IT-profile</a>
-            <a className='navigation__link' href=''>Link</a>
+            <CustomLink className='navigation__link' to="/it-profile">IT-profile</CustomLink>
+            <CustomLink className='navigation__link' to="/about">About</CustomLink>
         </div>
 
         <main className="container">
