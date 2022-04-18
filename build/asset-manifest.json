@@ -1,15 +1,15 @@
 {
-  "main.css": "/maxtertyshnyi-portfolio/static/css/main.61a2e275.chunk.css",
-  "main.js": "/maxtertyshnyi-portfolio/static/js/main.9dfb97c1.chunk.js",
-  "main.js.map": "/maxtertyshnyi-portfolio/static/js/main.9dfb97c1.chunk.js.map",
-  "static/js/1.af08dc77.chunk.js": "/maxtertyshnyi-portfolio/static/js/1.af08dc77.chunk.js",
-  "static/js/1.af08dc77.chunk.js.map": "/maxtertyshnyi-portfolio/static/js/1.af08dc77.chunk.js.map",
-  "static/js/2.87584013.chunk.js": "/maxtertyshnyi-portfolio/static/js/2.87584013.chunk.js",
-  "static/js/2.87584013.chunk.js.map": "/maxtertyshnyi-portfolio/static/js/2.87584013.chunk.js.map",
-  "runtime~main.js": "/maxtertyshnyi-portfolio/static/js/runtime~main.3fb61b73.js",
-  "runtime~main.js.map": "/maxtertyshnyi-portfolio/static/js/runtime~main.3fb61b73.js.map",
-  "static/css/main.61a2e275.chunk.css.map": "/maxtertyshnyi-portfolio/static/css/main.61a2e275.chunk.css.map",
-  "index.html": "/maxtertyshnyi-portfolio/index.html",
-  "precache-manifest.e2194996e6da76a95b402c0336030145.js": "/maxtertyshnyi-portfolio/precache-manifest.e2194996e6da76a95b402c0336030145.js",
-  "service-worker.js": "/maxtertyshnyi-portfolio/service-worker.js"
+  "main.css": "./static/css/main.61a2e275.chunk.css",
+  "main.js": "./static/js/main.9dfb97c1.chunk.js",
+  "main.js.map": "./static/js/main.9dfb97c1.chunk.js.map",
+  "static/js/1.af08dc77.chunk.js": "./static/js/1.af08dc77.chunk.js",
+  "static/js/1.af08dc77.chunk.js.map": "./static/js/1.af08dc77.chunk.js.map",
+  "static/js/2.87584013.chunk.js": "./static/js/2.87584013.chunk.js",
+  "static/js/2.87584013.chunk.js.map": "./static/js/2.87584013.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.3a68b196.js",
+  "runtime~main.js.map": "./static/js/runtime~main.3a68b196.js.map",
+  "static/css/main.61a2e275.chunk.css.map": "./static/css/main.61a2e275.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.335220def940e6aff110fc85ae509f00.js": "./precache-manifest.335220def940e6aff110fc85ae509f00.js",
+  "service-worker.js": "./service-worker.js"
 }
