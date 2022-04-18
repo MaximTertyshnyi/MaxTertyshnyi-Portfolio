@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/precache-manifest.5e353ee36cfe5ddced59c6e8ad7258b6.js"
+  "/maxtertyshnyi-portfolio/precache-manifest.e2194996e6da76a95b402c0336030145.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/index.html", {
+workbox.routing.registerNavigationRoute("/maxtertyshnyi-portfolio/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
