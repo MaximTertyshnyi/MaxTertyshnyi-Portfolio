@@ -1,5 +1,6 @@
+import React from 'react';
 
-const Aboutpage = () => {
+function Aboutpage() {
     return (
         <div>
             <h1 className='page__title'>Contact with me</h1>
@@ -8,4 +9,4 @@ const Aboutpage = () => {
     )
 }
 
-export {Aboutpage}
+export { Aboutpage }

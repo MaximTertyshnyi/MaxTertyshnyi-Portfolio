@@ -1,15 +1,15 @@
 {
-  "files": {
-    "main.css": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/static/css/main.61bc3538.css",
-    "main.js": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/static/js/main.84758412.js",
-    "static/js/787.01c874f8.chunk.js": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/static/js/787.01c874f8.chunk.js",
-    "index.html": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/index.html",
-    "main.61bc3538.css.map": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/static/css/main.61bc3538.css.map",
-    "main.84758412.js.map": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/static/js/main.84758412.js.map",
-    "787.01c874f8.chunk.js.map": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/static/js/787.01c874f8.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.61bc3538.css",
-    "static/js/main.84758412.js"
-  ]
+  "main.css": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/static/css/main.61a2e275.chunk.css",
+  "main.js": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/static/js/main.9dfb97c1.chunk.js",
+  "main.js.map": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/static/js/main.9dfb97c1.chunk.js.map",
+  "static/js/1.af08dc77.chunk.js": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/static/js/1.af08dc77.chunk.js",
+  "static/js/1.af08dc77.chunk.js.map": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/static/js/1.af08dc77.chunk.js.map",
+  "static/js/2.87584013.chunk.js": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/static/js/2.87584013.chunk.js",
+  "static/js/2.87584013.chunk.js.map": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/static/js/2.87584013.chunk.js.map",
+  "runtime~main.js": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/static/js/runtime~main.853b8a1e.js",
+  "runtime~main.js.map": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/static/js/runtime~main.853b8a1e.js.map",
+  "static/css/main.61a2e275.chunk.css.map": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/static/css/main.61a2e275.chunk.css.map",
+  "index.html": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/index.html",
+  "precache-manifest.5e353ee36cfe5ddced59c6e8ad7258b6.js": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/precache-manifest.5e353ee36cfe5ddced59c6e8ad7258b6.js",
+  "service-worker.js": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/service-worker.js"
 }

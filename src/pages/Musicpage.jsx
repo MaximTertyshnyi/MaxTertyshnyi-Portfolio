@@ -1,5 +1,6 @@
+import React from 'react';
 
-const Music = () => {
+function Music() {
     return (
         <div>
             <h1 className='page__title'>Musical projects</h1>
