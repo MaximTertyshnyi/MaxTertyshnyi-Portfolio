@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.61bc3538.css",
-    "main.js": "/static/js/main.e7472078.js",
-    "static/js/787.01c874f8.chunk.js": "/static/js/787.01c874f8.chunk.js",
-    "index.html": "/index.html",
-    "main.61bc3538.css.map": "/static/css/main.61bc3538.css.map",
-    "main.e7472078.js.map": "/static/js/main.e7472078.js.map",
-    "787.01c874f8.chunk.js.map": "/static/js/787.01c874f8.chunk.js.map"
+    "main.css": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/static/css/main.61bc3538.css",
+    "main.js": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/static/js/main.84758412.js",
+    "static/js/787.01c874f8.chunk.js": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/static/js/787.01c874f8.chunk.js",
+    "index.html": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/index.html",
+    "main.61bc3538.css.map": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/static/css/main.61bc3538.css.map",
+    "main.84758412.js.map": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/static/js/main.84758412.js.map",
+    "787.01c874f8.chunk.js.map": "/MaximTertyshnyi/MaxTertyshnyi-Portfolio.git/static/js/787.01c874f8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61bc3538.css",
-    "static/js/main.e7472078.js"
+    "static/js/main.84758412.js"
   ]
 }
